@@ -2,7 +2,7 @@
   "name": "itowns",
   "version": "2.29.1",
   "description": "A JS/WebGL framework for 3D geospatial data visualization",
-  "main": "lib/Main.js",
+  "main": "src/Main.js",
   "scripts": {
     "lint": "eslint \"src/**/*.js\" \"test/**/*.js\" \"examples/**/*.js\" \"docs/*.js\"",
     "doc": "jsdoc --readme docs/HOMEPAGE.md -c docs/config.json",
